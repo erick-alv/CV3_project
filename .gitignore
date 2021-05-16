@@ -108,5 +108,6 @@ venv.bak/
 .idea
 .idea/
 
-#own folders
+#own files
 cv3dst_exercise/data
+cv3dst_exercise/models/faster_rcnn_fpn.model
