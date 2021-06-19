@@ -115,3 +115,4 @@ cv3dst_exercise/models/faster_rcnn_fpn.model
 cv3dst_reid_exercise/output
 cv3dst_reid_exercise/data.zip
 data/
+cv3dst_gnn_exercise/data
