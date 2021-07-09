@@ -166,6 +166,7 @@ def evaluate_mot_accums(accums, names, generate_overall=False):
     print(str_summary)
 
 
+
 def evaluate_obj_detect(model, data_loader):
     model.eval()
     device = list(model.parameters())[0].device
